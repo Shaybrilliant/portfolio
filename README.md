@@ -3,9 +3,6 @@
 This is my Portfolio project
 
 
-
-
-
  Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 [Visit Demo Website](https://portfolio.shaybrilliant.repl.co/)
 ## Tech used
